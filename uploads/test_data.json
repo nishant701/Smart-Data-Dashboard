@@ -1,0 +1,52 @@
+[
+    {
+        "Sales": 100,
+        "Profit": 20,
+        "Expenses": 80
+    },
+    {
+        "Sales": 200,
+        "Profit": 50,
+        "Expenses": 150
+    },
+    {
+        "Sales": 300,
+        "Profit": 70,
+        "Expenses": 230
+    },
+    {
+        "Sales": 400,
+        "Profit": 90,
+        "Expenses": 310
+    },
+    {
+        "Sales": 500,
+        "Profit": 120,
+        "Expenses": 380
+    },
+    {
+        "Sales": 600,
+        "Profit": 150,
+        "Expenses": 450
+    },
+    {
+        "Sales": 700,
+        "Profit": 170,
+        "Expenses": 530
+    },
+    {
+        "Sales": 800,
+        "Profit": 200,
+        "Expenses": 600
+    },
+    {
+        "Sales": 900,
+        "Profit": 230,
+        "Expenses": 670
+    },
+    {
+        "Sales": 1000,
+        "Profit": 260,
+        "Expenses": 740
+    }
+]
